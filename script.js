@@ -6,7 +6,7 @@ const inputText = document.getElementById("inpText");
 
 
 
-form.addEventListener("submit",  (inputText)=>{
+form.addEventListener("submit",  (e)=>{
     inputText.preventDefault()
     if
     (inputText){
