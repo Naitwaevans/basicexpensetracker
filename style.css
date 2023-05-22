@@ -90,4 +90,7 @@ input[type=text], select {
   th {
     height: 70px;
   }
+  #msg{
+    color: red;
+  }
  
